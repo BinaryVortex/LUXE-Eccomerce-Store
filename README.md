@@ -1,4 +1,4 @@
-# 🛒 DEGIMEN - Modern E-commerce Store
+# 🛒 LUXE - Modern E-commerce Store
 
 A modern, high-performance E-commerce UI built with React, Vite, and Tailwind CSS. This project features a clean, professional design inspired by high-end retail experiences.
 
